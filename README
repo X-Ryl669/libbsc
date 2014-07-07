@@ -1,3 +1,6 @@
+The code here is not up to date. There is a known issue with platform without hardware unaligned access support.
+Please refer to the updated code in Frost backup program.
+
 Introduction:
 -------------
 
